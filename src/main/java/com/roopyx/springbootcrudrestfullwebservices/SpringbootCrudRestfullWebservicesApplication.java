@@ -9,5 +9,4 @@ public class SpringbootCrudRestfullWebservicesApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootCrudRestfullWebservicesApplication.class, args);
 	}
-
 }
